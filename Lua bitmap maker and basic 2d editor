@@ -287,5 +287,5 @@ for i=1,100 do
 	})
 end
 
---Saves the file in the directory of the Lua script as example.bmp.
+--Saves the file in the directory of the Lua script as example.bmp
 c:save("example.bmp")
