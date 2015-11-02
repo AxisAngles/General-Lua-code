@@ -2,7 +2,7 @@
 
 --This will return a unique number for each different positive integer vector of the same dimension.
 --Some guy named Cantor did this first, but mine is any dimension, so suck it, Cantor.
---Maybe I'll make an inverse function some time.
+--I'll probably not make an inverse to this because that would require solving an nth root polynomial.
 
 local function unique(...)
 	local n={...}
